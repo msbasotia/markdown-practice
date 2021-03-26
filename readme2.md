@@ -9,4 +9,5 @@ Git is a version control software
 Github is an open place to upload your code
 
 This is the 2nd class.
-I am going to make 3rd change for trying out edit and upload.
+
+3rd change
